@@ -1,0 +1,578 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header_div{
+    background-color: #F2CEDA;
+    
+}
+
+.container{
+    
+    display: flex;
+    max-width: 1600px;
+    margin: 0 auto;
+    /* justify-content: space-around; */
+}
+
+.img-1{
+    width: 79px;
+    height: 79px;
+    margin-left: 245px;
+    margin-top: 10px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.unorder_list{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    /* margin-top: 20px; */
+}
+.list_1{
+    margin: 40px;
+    margin-bottom: 40px;
+}
+
+.buy-now{
+    background-color: #D23166;
+    border: 1px solid #D23166;
+    border-radius: 5px;
+    margin-right: 230px;
+    margin-top: 25px;
+    width: 165px;
+    height: 49px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p1{
+    /* margin: 14px 13px 50px 50px; */
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.cont_nav{
+    
+    display: flex;
+    max-width: 1600px;
+    margin: 0 auto;
+    
+}
+
+.text_div{
+    padding-left: 254px;
+    
+}
+.h3_roboto{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 190px;
+    margin-bottom: 6px;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.h1_fredoka{
+    margin-bottom: 35px;
+    font-family: 'Fredoka One',sans-serif;
+    /* font-style: normal; */
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 120%;
+    
+    color: #0F0101;
+    
+    opacity: 0.9;
+}
+.text_item{
+    margin-bottom: 50px;
+    
+font-family: 'Hind Madurai',sans-serif;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+color: #0F0101;
+opacity: 0.6;
+}
+
+.buy-now{
+    margin-bottom: 213px;
+}
+.p1_buy{
+    display: inline-block;
+    padding: 13px 50px 19px 50px;
+    
+    text-decoration: none;
+    color: white;
+    width: 165px;
+height: 49px;
+left: 255px;
+top: 600px;
+background: #D23166;
+border-radius: 5px;
+}
+
+.imgs_div{
+    padding-right: 80px;
+}
+
+/* first section is ended */
+
+/* second secton start */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #E5E5E5;
+}
+.second_container{
+    max-width: 1120px;
+    /* height: 200px; */
+    display: flex;
+    margin: 0 auto;
+}
+
+.car,.packaging,.money,.fats_deliver{
+    
+    /* padding-left: 252px; */
+    margin: 39px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 1px solid #FFFFFF;
+    border-radius: 7px;
+}
+
+.free_h3{
+    font-family: 'Hind Madurai',sans-serif;
+    
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+.last_chance{
+    font-family: 'Hind Madurai',sans-serif;
+    
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+
+    opacity: 0.6;
+}
+
+.img_car,.img_packaging,.img_money,.img_delivery{
+    justify-content:  center;
+    padding-left: 100px;
+}
+/* second section end  */
+
+/* third secton started */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.head_third{
+    background-color:  #F8EDF0;;
+}
+.third_container{
+    max-width: 1120px;
+    margin: auto;
+    display: flex;
+}
+
+.head_third-div{
+    padding-left: 52px;
+    margin-bottom: 146px;
+}
+
+.text_h2{
+    margin-top: 141px;
+    margin-bottom: 16px;
+
+    font-family: 'Hind Madurai',sans-serif;
+font-weight: 600;
+font-size: 44px;
+line-height: 49px;
+color: #150101;
+}
+
+.text_third{
+    margin-bottom: 35px;
+    font-family: 'Roboto',sans-serif;
+
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #150101;
+opacity: 0.6;
+}
+
+.link_details{
+    font-family: 'Roboto',sans-serif;
+    padding: 15px 42px 15px 41px;
+    
+    background-color: #D64374;
+    border-radius: 5px;
+    text-decoration: none;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #FAFAFA;
+}
+
+
+.img_sugar{
+    width: 655px;
+    height: 657px;
+    margin-left: 74px;
+}
+/* browm sugar's section finished */
+
+/* our prucducted started */
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.fourth_container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+.product_h2{
+    font-family: 'Hind Madurai',sans-serif;
+
+font-weight: 600;
+font-size: 44.2px;
+line-height: 61px;
+
+color: #150101;
+    margin-top: 137px;
+    margin-bottom: 64px;
+    padding-left: 750px;
+    
+
+}
+
+.unorder_list{
+    list-style-type: none;
+
+}
+.ul_li{
+    margin: 0 39px 39px;
+    font-family: 'Roboto',sans-serif;
+    margin-bottom: 110px;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+opacity: 0.6;
+}
+strong{
+    border-bottom: 3px solid #D64374;
+}
+/* our producted finishged */
+
+/* brown bread started */
+
+.nav_container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.img_brown{
+    
+    width: 580px;
+    height: 415px;
+}
+
+.wrapper{
+    margin-left: 85px;
+    
+}
+
+.brown_h3{
+    
+    font-family: 'Hind Madurai',sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    
+    margin-top: 110px;
+    
+}
+.brown_text{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+
+    color: #000000;
+    opacity: 0.7;
+    margin-top: 11px;
+    margin-bottom: 28px;
+    
+}
+.money_cent{
+    font-family: 'Hind Madurai',sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    margin-bottom: 16px;
+    text-align: right;
+
+}
+
+.money_2{
+    font-family: 'Hind Madurai',sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+text-decoration-line: line-through;
+color: #000000;
+opacity: 0.7;
+
+
+}
+
+.img_brown{
+    margin-right: 85px;
+}
+
+p{
+    /* margin-bottom: 16px; */
+}
+.link_buy{
+    text-align: center;
+    margin-top: 16px;
+    padding: 15px 55px 15px 45px;
+    background-color: #D64374;
+    border-radius: 5px;
+    text-decoration: none;
+    color:  #FAFAFA;;
+}
+
+/* brown bread finished */
+
+/* Cayenne choco started */
+
+.nav_container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.img_brown{
+    
+    width: 580px;
+    height: 415px;
+}
+
+.wrapper_div{
+    margin-left: 85px;
+    text-align: right;
+}
+
+.brown_chocolate{
+    
+    font-family: 'Hind Madurai',sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    text-align: right;
+    margin-top: 110px;
+    
+}
+.chocolate_text{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+
+    color: #000000;
+    opacity: 0.7;
+    margin-top: 11px;
+    margin-bottom: 28px;
+    
+}
+.cash_cent{
+    font-family: 'Hind Madurai',sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    margin-bottom: 16px;
+    text-align: right;
+
+}
+
+.money_second{
+    font-family: 'Hind Madurai',sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+text-decoration-line: line-through;
+color: #000000;
+opacity: 0.7;
+text-align: right;
+margin-bottom: 9px;
+}
+
+.choco_p{
+    margin-bottom: 16px;
+    text-align: right;
+}
+.link_buy{
+    
+    margin-top: 16px;
+    padding: 15px 55px 15px 45px;
+    text-align: right;
+    background-color: #D64374;
+    border-radius: 5px;
+    text-decoration: none;
+    color:  #FAFAFA;;
+}
+
+.link_choco{
+    text-align: right;
+}
+.img_brown{
+    margin-left: 85px;
+}
+/* choco finished */
+
+/* sweet corn started */
+
+.nav_container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.img_sweet{
+    margin-right: 85px;
+    width: 580px;
+    height: 415px;
+}
+
+.wrapper{
+    margin-left: 85px;
+    
+}
+
+.sweet_h3{
+    
+    font-family: 'Hind Madurai',sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    
+    margin-top: 110px;
+    
+}
+.sweet_text{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+
+    color: #000000;
+    opacity: 0.7;
+    margin-top: 11px;
+    margin-bottom: 28px;
+    
+}
+.money_sweet{
+    font-family: 'Hind Madurai',sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    margin-bottom: 16px;
+    text-align: right;
+
+}
+
+.money_corn{
+    font-family: 'Hind Madurai',sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+text-decoration-line: line-through;
+color: #000000;
+opacity: 0.7;
+
+
+}
+
+
+.sweet_p{
+    text-align: left;
+    margin-bottom: 16px;
+}
+.link_buy{
+    text-align: center;
+    margin-top: 16px;
+    padding: 15px 55px 15px 45px;
+    background-color: #D64374;
+    border-radius: 5px;
+    text-decoration: none;
+    color:  #FAFAFA;
+}
+/* sweet finishes */
+
+/* AELENE STARTED */
+.five_container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Adele_wrap{
+    display: flex;
+}
+.AMERKAN{
+    
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+/* I WILL CONTINUE */
